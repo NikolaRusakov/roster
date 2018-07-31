@@ -1,0 +1,1 @@
+export infoApi from "./infoApi";

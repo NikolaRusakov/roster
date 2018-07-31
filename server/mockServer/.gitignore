@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+yarn.lock
+node_modules
+data.json
+mock-data.json
